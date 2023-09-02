@@ -1,7 +1,7 @@
-url: https://planet.moe/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 852
-lastUpdated: 2023-09-02T14:16:37.306Z
+url: https://yoyang.one/nodeinfo/2.0
+status: down
+code: 403
+responseTime: 52
+lastUpdated: 2023-09-02T14:16:47.214Z
 startTime: 2023-09-02T14:13:44.998Z
 generator: Upptime <https://github.com/upptime/upptime>
