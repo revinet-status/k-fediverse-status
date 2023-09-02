@@ -1,7 +1,7 @@
-url: https://uri.life/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 373
-lastUpdated: 2023-09-02T14:14:00.184Z
+url: https://yoyang.one/nodeinfo/2.0
+status: down
+code: 403
+responseTime: 42
+lastUpdated: 2023-09-02T14:14:00.534Z
 startTime: 2023-09-02T14:13:44.998Z
 generator: Upptime <https://github.com/upptime/upptime>
