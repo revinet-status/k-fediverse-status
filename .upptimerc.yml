@@ -1,26 +1,66 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: revinet-status # Your GitHub organization or username, where this repository lives
+repo: k-fediverse-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: 플래닛
+    url: https://planet.moe/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: 아모로트
+    url: https://amaurot.city/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: Aniwork Network
+    url: https://ani.work/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: ChalkBoard
+    url: https://chalk.moe/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: Dimension
+    url: https://dimension.host/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: naru.cafe DON
+    url: https://don.naru.cafe/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: HotoMoe
+    url: https://hoto.moe/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: Misskey.lapy
+    url: https://k.lapy.link/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: 마도스톤
+    url: https://madost.one/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: 맛소스통
+    url: https://masost.one/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: 머스타드
+    url: https://mustard.blog/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: 큐돈
+    url: https://qdon.space/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: SiFNet
+    url: https://social.silicon.moe/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: YuruToot
+    url: https://toot.funami.tech/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: 우리.인생
+    url: https://uri.life/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: 요양원
+    url: https://yoyang.one/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.fediverse.kr
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "K-연합우주 상태창"
+  introMessage: "[Upptime](https://github.com/upptime/upptime)으로 보는 연합우주 서버상태창. 추가/삭제 문의는 깃헙에 부탁드립니다."
   navbar:
     - title: Status
       href: /
