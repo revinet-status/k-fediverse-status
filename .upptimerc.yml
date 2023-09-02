@@ -3,10 +3,10 @@ owner: revinet-status # Your GitHub organization or username, where this reposit
 repo: k-fediverse-status # The name of this repository
 
 sites:
-  - name: 플래닛
+  - name: planet.moe
     url: https://planet.moe/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
-  - name: 아모로트
+  - name: amaurot.city
     url: https://amaurot.city/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: Aniwork Network
@@ -27,16 +27,16 @@ sites:
   - name: Misskey.lapy
     url: https://k.lapy.link/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
-  - name: 마도스톤
+  - name: madost.one
     url: https://madost.one/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
-  - name: 맛소스통
+  - name: masost.one
     url: https://masost.one/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
-  - name: 머스타드
+  - name: mustard.blog
     url: https://mustard.blog/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
-  - name: 큐돈
+  - name: qdon.space
     url: https://qdon.space/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: SiFNet
@@ -45,10 +45,10 @@ sites:
   - name: YuruToot
     url: https://toot.funami.tech/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
-  - name: 우리.인생
+  - name: uri.life
     url: https://uri.life/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
-  - name: 요양원
+  - name: yoyang.one
     url: https://yoyang.one/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
 
