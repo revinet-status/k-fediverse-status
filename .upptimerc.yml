@@ -39,6 +39,9 @@ sites:
   - name: qdon.space
     url: https://qdon.space/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: Old Sharlayan
+    name: https://old.sharlayan.city/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: SiFNet
     url: https://social.silicon.moe/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
