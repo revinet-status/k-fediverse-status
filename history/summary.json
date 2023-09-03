@@ -112,12 +112,12 @@
     "url": "https://hoto.moe/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/hoto.moe.ico",
     "slug": "hoto-moe",
-    "status": "up",
-    "uptime": "85.82%",
-    "uptimeDay": "81.56%",
-    "uptimeWeek": "85.82%",
-    "uptimeMonth": "85.82%",
-    "uptimeYear": "85.82%",
+    "status": "down",
+    "uptime": "86.20%",
+    "uptimeDay": "81.55%",
+    "uptimeWeek": "86.20%",
+    "uptimeMonth": "86.20%",
+    "uptimeYear": "86.20%",
     "time": 679,
     "timeDay": 665,
     "timeWeek": 679,
@@ -306,7 +306,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2023-09-03": 1286,
+      "2023-09-03": 1340,
       "2023-09-02": 578
     }
   },
