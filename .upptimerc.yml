@@ -2,6 +2,11 @@
 owner: revinet-status # Your GitHub organization or username, where this repository lives
 repo: k-fediverse-status # The name of this repository
 
+# following check must be present:
+# __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+# TODO: ABC order
+# name에 한글 입력 안 됩니다. 라틴알파벳 타파해야... (아무말)
+
 sites:
   - name: planet.moe
     url: https://planet.moe/nodeinfo/2.0
@@ -68,7 +73,46 @@ sites:
     url: https://twingyeo.kr/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: FediverseWiki
-    url: https://wiki.mastodon.kr/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json 
+    url: https://wiki.mastodon.kr/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json
+  - name: jmm
+    url: https://jmm.kr/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: maratang.life
+    url: https://maratang.life/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: kurry.social
+    url: https://kurry.social/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: pointless.chat
+    url: https://pointless.chat/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: muri.network
+    url: https://muri.network/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: netsphere.one
+    url: https://netsphere.one/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: mnetwork.co.kr
+    url: https://mastodon.mnetwork.co.kr/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: t.chadole.com
+    url: https://t.chadole.com/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: krpgpub.net
+    url: https://krpgpub.net/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: bakedbean.xyz
+    url: https://bakedbean.xyz/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: kono.pub
+    url: https://kono.pub/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: trpg-o.xyz
+    url: https://trpg-o.xyz/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: s.mysw.moe
+    url: https://s.mysw.moe/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
