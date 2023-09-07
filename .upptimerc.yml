@@ -24,6 +24,13 @@ sites:
   - name: HotoMoe
     url: https://hoto.moe/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 302
+      - 0
+      - 404
   - name: Misskey.lapy
     url: https://k.lapy.link/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
