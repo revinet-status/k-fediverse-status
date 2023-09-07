@@ -67,6 +67,8 @@ sites:
   - name: Twingyeo
     url: https://twingyeo.kr/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: FediverseWiki
+    url: https://wiki.mastodon.kr/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
