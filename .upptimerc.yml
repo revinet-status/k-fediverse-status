@@ -129,5 +129,18 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+commitMessages:
+  commitAuthorName: "revibot"
+  commitAuthorEmail: "github-revibot@revi.kr"
+
+workflowSchedule:
+  graphs: "0 3,15 * * *"
+  responseTime: "0 */6 * * *"
+  staticSite: "0 16 * * *"
+  summary: "0 3,15 * * *"
+  updateTemplate: "0 15 * * *"
+  updates: "0 6,18 * * *"
+  uptime: "*/5 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
