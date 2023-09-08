@@ -113,7 +113,7 @@ sites:
   - name: s.mysw.moe
     url: https://s.mysw.moe/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
-  - name: buttersc.onr
+  - name: buttersc.one
     url: https://buttersc.one/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: stella.place
