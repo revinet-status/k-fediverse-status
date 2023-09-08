@@ -72,8 +72,6 @@ sites:
   - name: Twingyeo
     url: https://twingyeo.kr/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
-  - name: FediverseWiki
-    url: https://wiki.mastodon.kr/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json
   - name: jmm
     url: https://jmm.kr/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
@@ -119,6 +117,14 @@ sites:
   - name: stella.place
     url: https://stella.place/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: FediverseWiki
+    url: https://wiki.mastodon.kr/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json
+  - name: interstellar.flights
+    url: https://ap.interstellar.flights/
+  - name: relay.musubi.moe
+    url: https://relay.musubi.moe/
+  - name: relay.pointless.chat
+    url: https://relay.pointless.chat/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
