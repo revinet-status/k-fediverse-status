@@ -146,7 +146,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  customHeadHtml: "<meta name="robots" content="noindex">"
+  customHeadHtml: "<meta name=\"robots\" content=\"noindex\">"
 
 commitMessages:
   commitAuthorName: "revibot"
