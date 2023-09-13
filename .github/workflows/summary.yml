@@ -10,7 +10,7 @@
 name: Summary CI
 on:
   schedule:
-    - cron: "0 3,15 * * *"
+    - cron: "0 4,16 * * *"
   repository_dispatch:
     types: [summary]
   workflow_dispatch:
