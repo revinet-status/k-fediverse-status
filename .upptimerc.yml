@@ -137,7 +137,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.fediverse.kr
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://static.miraheze.org/mastodonkrwiki/b/b4/%EB%A7%88.svg
   name: K-연합우주 상태창
   introTitle: "K-연합우주 상태창"
   introMessage: "[Upptime](https://github.com/upptime/upptime)으로 보는 K-연합우주 서버상태창. 자세한 정보는 [한국어 연합우주 위키](https://wiki.mastodon.kr/wiki/Status.fediverse.kr)을 참조해 주세요."
