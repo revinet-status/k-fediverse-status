@@ -53,6 +53,8 @@ sites:
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: Old Sharlayan
     url: https://old.sharlayan.city/nodeinfo/2.0
+    assignees:
+      - revi
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: SiFNet
     url: https://social.silicon.moe/nodeinfo/2.0
