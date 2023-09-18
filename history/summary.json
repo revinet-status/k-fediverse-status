@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 847,
-    "timeDay": 792,
-    "timeWeek": 834,
-    "timeMonth": 847,
-    "timeYear": 847,
+    "time": 848,
+    "timeDay": 814,
+    "timeWeek": 837,
+    "timeMonth": 848,
+    "timeYear": 848,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 603,
-    "timeDay": 633,
-    "timeWeek": 609,
-    "timeMonth": 603,
-    "timeYear": 603,
+    "time": 601,
+    "timeDay": 615,
+    "timeWeek": 607,
+    "timeMonth": 601,
+    "timeYear": 601,
     "dailyMinutesDown": {}
   },
   {
@@ -604,7 +604,7 @@
     "slug": "trpg-o-xyz",
     "status": "up",
     "uptime": "85.08%",
-    "uptimeDay": "36.25%",
+    "uptimeDay": "36.28%",
     "uptimeWeek": "76.39%",
     "uptimeMonth": "85.08%",
     "uptimeYear": "85.08%",
@@ -732,7 +732,7 @@
     "timeMonth": 55,
     "timeYear": 55,
     "dailyMinutesDown": {
-      "2023-09-18": 0
+      "2023-09-18": 1
     }
   },
   {
