@@ -1,7 +1,7 @@
 url: https://relay.musubi.moe/
-status: down
-code: 502
-responseTime: 226
-lastUpdated: 2023-09-21T23:36:14.775Z
+status: up
+code: 200
+responseTime: 247
+lastUpdated: 2023-09-21T23:42:10.591Z
 startTime: 2023-09-08T11:40:04.045Z
 generator: Upptime <https://github.com/upptime/upptime>
