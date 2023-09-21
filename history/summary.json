@@ -752,7 +752,7 @@
     "timeMonth": 161,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2023-09-21": 922,
+      "2023-09-21": 926,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 673
@@ -827,19 +827,19 @@
     "url": "https://relay.musubi.moe/",
     "icon": "https://icons.duckduckgo.com/ip3/relay.musubi.moe.ico",
     "slug": "relay-musubi-moe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 295,
-    "timeWeek": 337,
-    "timeMonth": 440,
-    "timeYear": 440,
+    "time": 436,
+    "timeDay": 279,
+    "timeWeek": 333,
+    "timeMonth": 436,
+    "timeYear": 436,
     "dailyMinutesDown": {
-      "2023-09-21": 0
+      "2023-09-21": 1
     }
   },
   {
