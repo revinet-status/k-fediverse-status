@@ -127,7 +127,10 @@ sites:
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: Cerulean.ink
     url: https://cerulean.ink/nodeinfo/2.0.json
-    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]' 
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: KitsuneSoba
+    url: https://kitsunesoba.com/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: FediverseWiki
     url: https://wiki.mastodon.kr/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json
   - name: interstellar.flights
