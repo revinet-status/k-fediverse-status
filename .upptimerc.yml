@@ -139,6 +139,7 @@ sites:
     url: https://relay.musubi.moe/
   - name: relay.pointless.chat
     url: https://relay.pointless.chat/
+# FediverseWiki와 그 아래 사이트의 순서는 만지지 말아 주세요.
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
