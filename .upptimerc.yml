@@ -136,7 +136,16 @@ sites:
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: duk.space
     url: https://duk.space/nodeinfo/2.0
-    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'   
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: mst.canor.kr
+    url: https://mst.canor.kr/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: msk.canor.kr
+    url: https://msk.canor.kr/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: serafuku.moe
+    url: https://serafuku.moe/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]' 
   - name: FediverseWiki
     url: https://wiki.mastodon.kr/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json
   - name: interstellar.flights
