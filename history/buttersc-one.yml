@@ -1,7 +1,7 @@
 url: https://buttersc.one/nodeinfo/2.0
-status: down
-code: 503
-responseTime: 649
-lastUpdated: 2023-09-25T04:31:07.055Z
+status: up
+code: 200
+responseTime: 786
+lastUpdated: 2023-09-25T04:50:53.220Z
 startTime: 2023-09-08T11:31:20.020Z
 generator: Upptime <https://github.com/upptime/upptime>
