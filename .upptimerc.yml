@@ -154,7 +154,22 @@ sites:
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: worldcone
     url: https://worldc.one/nodeinfo/2.0
-    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'  
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: i.peacht.art
+    url: https://i.peacht.art/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: rlidea.com
+    url: https://rlidea.com/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: leuno.kr
+    url: https://leuno.kr/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: mi.rerac.dev
+    url: https://mi.rerac.dev/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: parfait.day
+    url: https://parfait.day/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]' 
   - name: FediverseWiki
     url: https://wiki.mastodon.kr/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json
   - name: interstellar.flights
