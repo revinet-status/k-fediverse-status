@@ -151,6 +151,9 @@ sites:
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: Nekoplanet
     url: https://nekoplanet.xyz/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: worldcone
+    url: https://worldc.one/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'  
   - name: FediverseWiki
     url: https://wiki.mastodon.kr/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json
