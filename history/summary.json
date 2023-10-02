@@ -491,19 +491,19 @@
     "url": "https://muri.network/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/muri.network.ico",
     "slug": "muri-network",
-    "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "96.34%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.64%",
-    "time": 1839,
-    "timeDay": 1884,
-    "timeWeek": 1755,
-    "timeMonth": 1839,
-    "timeYear": 1839,
+    "status": "down",
+    "uptime": "98.65%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.65%",
+    "time": 1837,
+    "timeDay": 1844,
+    "timeWeek": 1749,
+    "timeMonth": 1837,
+    "timeYear": 1837,
     "dailyMinutesDown": {
-      "2023-10-02": 29,
+      "2023-10-02": 30,
       "2023-10-01": 47,
       "2023-09-30": 55,
       "2023-09-29": 45,
@@ -512,8 +512,7 @@
       "2023-09-26": 39,
       "2023-09-25": 25,
       "2023-09-24": 45,
-      "2023-09-23": 49,
-      "2023-09-22": 3
+      "2023-09-23": 49
     }
   },
   {
@@ -521,19 +520,19 @@
     "url": "https://netsphere.one/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/netsphere.one.ico",
     "slug": "netsphere-one",
-    "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "96.34%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.64%",
+    "status": "down",
+    "uptime": "98.65%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.65%",
     "time": 741,
-    "timeDay": 719,
+    "timeDay": 722,
     "timeWeek": 731,
     "timeMonth": 741,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2023-10-02": 29,
+      "2023-10-02": 30,
       "2023-10-01": 47,
       "2023-09-30": 55,
       "2023-09-29": 45,
@@ -542,8 +541,7 @@
       "2023-09-26": 39,
       "2023-09-25": 25,
       "2023-09-24": 45,
-      "2023-09-23": 49,
-      "2023-09-22": 3
+      "2023-09-23": 49
     }
   },
   {
@@ -791,7 +789,7 @@
     "timeMonth": 184,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2023-10-02": 1030,
+      "2023-10-02": 1033,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
@@ -1020,18 +1018,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/leuno.kr.ico",
     "slug": "leuno-kr",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.35%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 808,
     "timeDay": 744,
     "timeWeek": 808,
     "timeMonth": 808,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2023-10-02": 19
+      "2023-10-02": 22
     }
   },
   {
