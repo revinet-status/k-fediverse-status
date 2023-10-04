@@ -172,7 +172,10 @@ sites:
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: whitelily.blue
     url: https://whitelily.blue/nodeinfo/2.0
-    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'  
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: sekai.social
+    url: https://sekai.social/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: FediverseWiki
     url: https://wiki.mastodon.kr/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json
   - name: interstellar.flights
