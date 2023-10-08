@@ -176,6 +176,12 @@ sites:
   - name: sekai.social
     url: https://sekai.social/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: yuri.garden
+    url: https://yuri.garden/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: aquarium.yuri.garden
+    url: https://aquarium.yuri.garden/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'     
   - name: FediverseWiki
     url: https://wiki.mastodon.kr/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json
   - name: interstellar.flights
