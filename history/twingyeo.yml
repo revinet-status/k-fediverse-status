@@ -1,7 +1,7 @@
 url: https://twingyeo.kr/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 3866
-lastUpdated: 2023-10-11T20:45:40.438Z
+status: down
+code: 520
+responseTime: 894
+lastUpdated: 2023-10-11T23:55:26.996Z
 startTime: 2023-09-03T03:56:47.973Z
 generator: Upptime <https://github.com/upptime/upptime>
