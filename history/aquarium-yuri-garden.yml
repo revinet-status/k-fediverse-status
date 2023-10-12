@@ -1,7 +1,7 @@
 url: https://aquarium.yuri.garden/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 826
-lastUpdated: 2023-10-12T06:19:03.493Z
+status: down
+code: 500
+responseTime: 20046
+lastUpdated: 2023-10-12T09:56:52.513Z
 startTime: 2023-10-08T10:02:46.978Z
 generator: Upptime <https://github.com/upptime/upptime>
