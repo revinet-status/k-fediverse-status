@@ -1,7 +1,7 @@
 url: https://worldc.one/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 653
-lastUpdated: 2023-10-28T13:25:45.748Z
+status: up
+code: 200
+responseTime: 429
+lastUpdated: 2023-10-28T13:40:59.076Z
 startTime: 2023-09-30T02:52:34.373Z
 generator: Upptime <https://github.com/upptime/upptime>
