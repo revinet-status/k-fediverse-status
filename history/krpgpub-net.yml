@@ -1,7 +1,7 @@
 url: https://krpgpub.net/nodeinfo/2.0
-status: down
-code: 500
-responseTime: 464
-lastUpdated: 2023-11-04T15:15:39.473Z
+status: up
+code: 200
+responseTime: 523
+lastUpdated: 2023-11-04T15:30:50.592Z
 startTime: 2023-09-07T10:58:55.200Z
 generator: Upptime <https://github.com/upptime/upptime>
