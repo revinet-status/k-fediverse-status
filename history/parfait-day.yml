@@ -1,7 +1,7 @@
 url: https://parfait.day/nodeinfo/2.0
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-09T02:57:28.644Z
+status: up
+code: 200
+responseTime: 2484
+lastUpdated: 2023-11-09T03:01:34.292Z
 startTime: 2023-09-30T08:57:57.069Z
 generator: Upptime <https://github.com/upptime/upptime>
