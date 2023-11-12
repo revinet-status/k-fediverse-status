@@ -1,7 +1,7 @@
 url: https://bunbers.org/nodeinfo/2.0.json
-status: up
-code: 200
-responseTime: 697
-lastUpdated: 2023-11-12T12:24:20.891Z
+status: down
+code: 502
+responseTime: 630
+lastUpdated: 2023-11-12T15:15:40.866Z
 startTime: 2023-09-02T17:15:55.591Z
 generator: Upptime <https://github.com/upptime/upptime>
