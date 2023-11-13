@@ -1,7 +1,7 @@
 url: https://muri.network/nodeinfo/2.0
-status: down
-code: 403
-responseTime: 866
-lastUpdated: 2023-11-13T17:40:47.566Z
+status: up
+code: 200
+responseTime: 1066
+lastUpdated: 2023-11-13T17:45:56.428Z
 startTime: 2023-09-07T10:58:46.938Z
 generator: Upptime <https://github.com/upptime/upptime>
