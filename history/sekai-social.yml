@@ -1,7 +1,7 @@
 url: https://sekai.social/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 2777
-lastUpdated: 2023-11-13T20:36:08.368Z
+status: up
+code: 200
+responseTime: 929
+lastUpdated: 2023-11-13T20:54:06.827Z
 startTime: 2023-10-04T09:53:35.979Z
 generator: Upptime <https://github.com/upptime/upptime>
