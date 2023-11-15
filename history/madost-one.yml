@@ -1,7 +1,7 @@
 url: https://madost.one/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 182
-lastUpdated: 2023-11-15T04:41:12.401Z
+status: up
+code: 200
+responseTime: 1729
+lastUpdated: 2023-11-15T04:51:11.209Z
 startTime: 2023-09-02T14:22:16.018Z
 generator: Upptime <https://github.com/upptime/upptime>
