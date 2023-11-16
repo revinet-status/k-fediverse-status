@@ -1,7 +1,7 @@
 url: https://kono.pub/nodeinfo/2.0
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-16T18:32:38.697Z
+status: up
+code: 200
+responseTime: 643
+lastUpdated: 2023-11-16T18:35:43.752Z
 startTime: 2023-09-07T10:58:57.251Z
 generator: Upptime <https://github.com/upptime/upptime>
