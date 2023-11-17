@@ -1,7 +1,7 @@
 url: https://stella.place/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 837
-lastUpdated: 2023-11-17T12:27:05.705Z
+status: up
+code: 200
+responseTime: 743
+lastUpdated: 2023-11-17T12:35:53.289Z
 startTime: 2023-09-08T11:26:50.877Z
 generator: Upptime <https://github.com/upptime/upptime>
