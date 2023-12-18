@@ -1,7 +1,7 @@
 url: https://don.naru.cafe/nodeinfo/2.0
-status: down
-code: 404
-responseTime: 927
-lastUpdated: 2023-12-18T13:35:38.026Z
+status: up
+code: 200
+responseTime: 802
+lastUpdated: 2023-12-18T14:45:41.505Z
 startTime: 2023-09-02T14:13:50.392Z
 generator: Upptime <https://github.com/upptime/upptime>
