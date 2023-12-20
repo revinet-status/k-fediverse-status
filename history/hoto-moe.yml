@@ -1,7 +1,7 @@
 url: https://hoto.moe/nodeinfo/2.0
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-20T12:22:06.844Z
+status: up
+code: 200
+responseTime: 693
+lastUpdated: 2023-12-20T16:23:25.742Z
 startTime: 2023-09-02T14:13:51.366Z
 generator: Upptime <https://github.com/upptime/upptime>
