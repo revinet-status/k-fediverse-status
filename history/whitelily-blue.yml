@@ -1,7 +1,7 @@
 url: https://whitelily.blue/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 719
-lastUpdated: 2023-12-26T17:41:04.685Z
+status: up
+code: 200
+responseTime: 830
+lastUpdated: 2023-12-26T17:45:55.782Z
 startTime: 2023-10-02T16:42:42.478Z
 generator: Upptime <https://github.com/upptime/upptime>
