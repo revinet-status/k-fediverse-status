@@ -265,8 +265,8 @@
     "slug": "masost-one",
     "status": "up",
     "uptime": "81.87%",
-    "uptimeDay": "84.76%",
-    "uptimeWeek": "12.11%",
+    "uptimeDay": "85.15%",
+    "uptimeWeek": "12.16%",
     "uptimeMonth": "30.55%",
     "uptimeYear": "81.87%",
     "time": 238,
@@ -766,7 +766,7 @@
     "timeMonth": 460,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2023-12-29": 102,
+      "2023-12-29": 108,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
@@ -1090,7 +1090,7 @@
     "timeMonth": 199,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2023-12-29": 102,
+      "2023-12-29": 108,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
@@ -1486,7 +1486,7 @@
     "timeMonth": 198,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-12-29": 103,
+      "2023-12-29": 109,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
@@ -1660,18 +1660,19 @@
     "url": "https://sekai.social/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/sekai.social.ico",
     "slug": "sekai-social",
-    "status": "up",
-    "uptime": "94.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "85.67%",
-    "uptimeMonth": "95.17%",
-    "uptimeYear": "94.34%",
+    "status": "down",
+    "uptime": "94.37%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "85.65%",
+    "uptimeMonth": "95.16%",
+    "uptimeYear": "94.37%",
     "time": 879,
     "timeDay": 623,
     "timeWeek": 703,
     "timeMonth": 672,
     "timeYear": 879,
     "dailyMinutesDown": {
+      "2023-12-29": 2,
       "2023-12-24": 116,
       "2023-12-23": 1328,
       "2023-12-21": 9,
@@ -1735,7 +1736,7 @@
       "2023-10-10": 10,
       "2023-10-09": 300,
       "2023-10-08": 5,
-      "2023-10-07": 41
+      "2023-10-07": 1
     }
   },
   {
