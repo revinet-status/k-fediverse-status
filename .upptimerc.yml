@@ -71,9 +71,6 @@ sites:
   - name: Bunbers
     url: https://bunbers.org/nodeinfo/2.0.json
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
-  - name: Twingyeo
-    url: https://twingyeo.kr/nodeinfo/2.0
-    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: jmm
     url: https://jmm.kr/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
@@ -181,7 +178,13 @@ sites:
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: aquarium.yuri.garden
     url: https://aquarium.yuri.garden/nodeinfo/2.0
-    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'     
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: yunochi.moe
+    url: https://yunochi.moe/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
+  - name: munochi.moe
+    url: https://munochi.moe/nodeinfo/2.0
+    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: FediverseWiki
     url: https://wiki.mastodon.kr/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json
   - name: interstellar.flights
