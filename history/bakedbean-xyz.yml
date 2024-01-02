@@ -1,7 +1,7 @@
 url: https://bakedbean.xyz/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 564
-lastUpdated: 2024-01-02T07:25:48.694Z
+status: up
+code: 200
+responseTime: 815
+lastUpdated: 2024-01-02T07:30:09.591Z
 startTime: 2023-09-07T10:58:55.991Z
 generator: Upptime <https://github.com/upptime/upptime>
