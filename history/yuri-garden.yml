@@ -1,7 +1,7 @@
 url: https://yuri.garden/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 1051
-lastUpdated: 2024-01-02T12:26:49.595Z
+status: down
+code: 503
+responseTime: 843
+lastUpdated: 2024-01-02T15:06:05.479Z
 startTime: 2023-10-08T10:02:45.742Z
 generator: Upptime <https://github.com/upptime/upptime>
