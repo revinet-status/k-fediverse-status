@@ -440,7 +440,7 @@
     "uptimeYear": "99.82%",
     "time": 604,
     "timeDay": 587,
-    "timeWeek": 1112,
+    "timeWeek": 644,
     "timeMonth": 747,
     "timeYear": 604,
     "dailyMinutesDown": {
@@ -684,19 +684,19 @@
     "url": "https://muri.network/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/muri.network.ico",
     "slug": "muri-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "96.51%",
-    "uptimeWeek": "93.24%",
-    "uptimeMonth": "98.02%",
+    "uptimeDay": "96.41%",
+    "uptimeWeek": "93.23%",
+    "uptimeMonth": "98.03%",
     "uptimeYear": "99.50%",
     "time": 1687,
-    "timeDay": 1483,
-    "timeWeek": 1779,
-    "timeMonth": 1880,
+    "timeDay": 1466,
+    "timeWeek": 1774,
+    "timeMonth": 1879,
     "timeYear": 1687,
     "dailyMinutesDown": {
-      "2024-01-05": 7,
+      "2024-01-05": 8,
       "2024-01-04": 52,
       "2024-01-03": 42,
       "2024-01-02": 143,
@@ -706,7 +706,7 @@
       "2023-12-29": 298,
       "2023-12-28": 108,
       "2023-12-27": 27,
-      "2023-12-26": 43
+      "2023-12-26": 39
     }
   },
   {
@@ -714,19 +714,19 @@
     "url": "https://netsphere.one/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/netsphere.one.ico",
     "slug": "netsphere-one",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "93.22%",
-    "uptimeMonth": "98.03%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "93.21%",
+    "uptimeMonth": "98.04%",
     "uptimeYear": "99.50%",
     "time": 754,
-    "timeDay": 707,
-    "timeWeek": 766,
+    "timeDay": 713,
+    "timeWeek": 767,
     "timeMonth": 742,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2024-01-05": 7,
+      "2024-01-05": 8,
       "2024-01-04": 55,
       "2024-01-03": 42,
       "2024-01-02": 143,
@@ -736,7 +736,7 @@
       "2023-12-29": 298,
       "2023-12-28": 108,
       "2023-12-27": 27,
-      "2023-12-26": 39
+      "2023-12-26": 34
     }
   },
   {
@@ -778,7 +778,7 @@
     "timeMonth": 474,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2024-01-05": 289,
+      "2024-01-05": 293,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
@@ -1112,7 +1112,7 @@
     "timeMonth": 199,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2024-01-05": 290,
+      "2024-01-05": 293,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
@@ -1519,7 +1519,7 @@
     "timeMonth": 213,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-01-05": 290,
+      "2024-01-05": 293,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
@@ -1825,8 +1825,8 @@
     "status": "down",
     "uptime": "96.88%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "61.37%",
-    "uptimeMonth": "91.11%",
+    "uptimeWeek": "61.34%",
+    "uptimeMonth": "91.10%",
     "uptimeYear": "96.88%",
     "time": 877,
     "timeDay": 0,
@@ -1834,7 +1834,7 @@
     "timeMonth": 780,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2024-01-05": 290,
+      "2024-01-05": 293,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 724,
