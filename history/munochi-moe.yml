@@ -1,7 +1,7 @@
 url: https://munochi.moe/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 995
-lastUpdated: 2024-01-06T12:25:12.023Z
+status: down
+code: 523
+responseTime: 527
+lastUpdated: 2024-01-06T15:42:11.548Z
 startTime: 2023-12-29T21:59:06.680Z
 generator: Upptime <https://github.com/upptime/upptime>
