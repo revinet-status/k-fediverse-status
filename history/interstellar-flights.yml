@@ -1,7 +1,7 @@
 url: https://ap.interstellar.flights/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-08T17:46:08.175Z
+status: up
+code: 200
+responseTime: 420
+lastUpdated: 2024-01-08T17:51:23.340Z
 startTime: 2023-09-08T11:40:03.086Z
 generator: Upptime <https://github.com/upptime/upptime>
