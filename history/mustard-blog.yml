@@ -1,7 +1,7 @@
 url: https://mustard.blog/nodeinfo/2.0
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-16T11:17:17.118Z
+status: up
+code: 200
+responseTime: 4367
+lastUpdated: 2024-01-16T11:20:48.127Z
 startTime: 2023-09-02T14:22:17.290Z
 generator: Upptime <https://github.com/upptime/upptime>
