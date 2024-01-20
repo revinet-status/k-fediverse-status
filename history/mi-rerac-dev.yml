@@ -1,7 +1,7 @@
 url: https://mi.rerac.dev/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 706
-lastUpdated: 2024-01-20T01:21:25.490Z
+status: up
+code: 200
+responseTime: 503
+lastUpdated: 2024-01-20T01:26:11.858Z
 startTime: 2023-09-30T08:57:55.920Z
 generator: Upptime <https://github.com/upptime/upptime>
