@@ -132,7 +132,7 @@
     "uptime": "89.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.36%",
+    "uptimeMonth": "52.35%",
     "uptimeYear": "89.60%",
     "time": 880,
     "timeDay": 712,
@@ -140,7 +140,7 @@
     "timeMonth": 1010,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2024-01-29": 108,
+      "2024-01-29": 112,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
@@ -852,7 +852,7 @@
     "timeMonth": 518,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2024-01-29": 109,
+      "2024-01-29": 113,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
@@ -1224,7 +1224,7 @@
     "timeMonth": 186,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2024-01-29": 109,
+      "2024-01-29": 114,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
@@ -1668,7 +1668,7 @@
     "timeMonth": 226,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-01-29": 110,
+      "2024-01-29": 114,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
@@ -1879,18 +1879,19 @@
     "url": "https://sekai.social/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/sekai.social.ico",
     "slug": "sekai-social",
-    "status": "up",
+    "status": "down",
     "uptime": "95.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.86%",
-    "uptimeMonth": "95.28%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "94.84%",
+    "uptimeMonth": "95.27%",
     "uptimeYear": "95.25%",
     "time": 836,
     "timeDay": 841,
     "timeWeek": 726,
-    "timeMonth": 692,
+    "timeMonth": 693,
     "timeYear": 836,
     "dailyMinutesDown": {
+      "2024-01-29": 2,
       "2024-01-27": 497,
       "2024-01-26": 5,
       "2024-01-24": 10,
@@ -1964,7 +1965,7 @@
       "2023-10-24": 5,
       "2023-10-22": 5,
       "2023-10-20": 5,
-      "2023-10-19": 195
+      "2023-10-19": 190
     }
   },
   {
@@ -2014,7 +2015,7 @@
     "uptime": "76.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "12.63%",
+    "uptimeMonth": "12.62%",
     "uptimeYear": "76.35%",
     "time": 877,
     "timeDay": 0,
@@ -2022,7 +2023,7 @@
     "timeMonth": 742,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2024-01-29": 110,
+      "2024-01-29": 114,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
