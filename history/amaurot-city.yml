@@ -1,7 +1,7 @@
 url: https://amaurot.city/nodeinfo/2.0
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-29T02:29:15.602Z
+status: up
+code: 200
+responseTime: 11736
+lastUpdated: 2024-01-29T02:46:03.904Z
 startTime: 2023-09-02T14:22:09.533Z
 generator: Upptime <https://github.com/upptime/upptime>
