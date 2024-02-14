@@ -1,7 +1,7 @@
 url: https://wiki.mastodon.kr/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json
-status: down
-code: 500
-responseTime: 6814
-lastUpdated: 2024-02-14T19:03:34.715Z
+status: up
+code: 200
+responseTime: 599
+lastUpdated: 2024-02-14T19:09:03.004Z
 startTime: 2023-09-07T10:45:58.978Z
 generator: Upptime <https://github.com/upptime/upptime>
