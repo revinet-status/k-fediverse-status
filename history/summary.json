@@ -147,7 +147,7 @@
     "timeMonth": 716,
     "timeYear": 863,
     "dailyMinutesDown": {
-      "2024-02-18": 1082,
+      "2024-02-18": 1087,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -500,8 +500,8 @@
     "status": "up",
     "uptime": "89.75%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "64.76%",
-    "uptimeMonth": "55.04%",
+    "uptimeWeek": "64.72%",
+    "uptimeMonth": "55.03%",
     "uptimeYear": "89.75%",
     "time": 353,
     "timeDay": 213,
@@ -509,7 +509,7 @@
     "timeMonth": 377,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2024-02-18": 1083,
+      "2024-02-18": 1087,
       "2024-02-17": 1440,
       "2024-02-16": 1029,
       "2024-02-09": 1031,
@@ -954,7 +954,7 @@
     "timeMonth": 545,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2024-02-18": 1084,
+      "2024-02-18": 1088,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -1354,7 +1354,7 @@
     "timeMonth": 196,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2024-02-18": 1084,
+      "2024-02-18": 1088,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -1590,9 +1590,9 @@
     "slug": "duk-space",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "54.32%",
-    "uptimeWeek": "93.47%",
-    "uptimeMonth": "98.50%",
+    "uptimeDay": "54.04%",
+    "uptimeWeek": "93.43%",
+    "uptimeMonth": "98.49%",
     "uptimeYear": "99.69%",
     "time": 584,
     "timeDay": 562,
@@ -1600,7 +1600,7 @@
     "timeMonth": 575,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2024-02-18": 658
+      "2024-02-18": 662
     }
   },
   {
@@ -1781,16 +1781,16 @@
     "url": "https://i.peacht.art/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/i.peacht.art.ico",
     "slug": "i-peacht-art",
-    "status": "down",
+    "status": "up",
     "uptime": "99.64%",
     "uptimeDay": "86.96%",
     "uptimeWeek": "98.14%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.64%",
     "time": 659,
-    "timeDay": 620,
-    "timeWeek": 632,
-    "timeMonth": 628,
+    "timeDay": 623,
+    "timeWeek": 633,
+    "timeMonth": 629,
     "timeYear": 659,
     "dailyMinutesDown": {
       "2024-02-18": 188,
@@ -1840,7 +1840,7 @@
     "timeMonth": 210,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-02-18": 1084,
+      "2024-02-18": 1088,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -2222,7 +2222,7 @@
     "timeMonth": 0,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2024-02-18": 1085,
+      "2024-02-18": 1089,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -2294,7 +2294,7 @@
     "uptime": "67.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.92%",
+    "uptimeMonth": "44.91%",
     "uptimeYear": "67.04%",
     "time": 614,
     "timeDay": 513,
@@ -2302,7 +2302,7 @@
     "timeMonth": 609,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2024-02-18": 1085,
+      "2024-02-18": 1089,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
