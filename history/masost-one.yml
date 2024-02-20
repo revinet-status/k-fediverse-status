@@ -1,7 +1,7 @@
 url: https://masost.one/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 8085
-lastUpdated: 2024-02-20T08:31:04.565Z
+status: down
+code: 502
+responseTime: 258
+lastUpdated: 2024-02-20T08:50:46.487Z
 startTime: 2023-09-02T14:22:16.650Z
 generator: Upptime <https://github.com/upptime/upptime>
