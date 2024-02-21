@@ -1,7 +1,7 @@
 url: https://i.peacht.art/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 598
-lastUpdated: 2024-02-21T06:17:54.792Z
+status: down
+code: 502
+responseTime: 663
+lastUpdated: 2024-02-21T07:06:09.951Z
 startTime: 2023-09-30T08:57:52.256Z
 generator: Upptime <https://github.com/upptime/upptime>
