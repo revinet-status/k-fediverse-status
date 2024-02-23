@@ -1,7 +1,7 @@
 url: https://dimension.host/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 442
-lastUpdated: 2024-02-23T05:52:29.000Z
+status: up
+code: 200
+responseTime: 716
+lastUpdated: 2024-02-23T05:55:44.562Z
 startTime: 2023-09-02T14:13:49.405Z
 generator: Upptime <https://github.com/upptime/upptime>
