@@ -1,7 +1,7 @@
 url: https://yoyang.one/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 689
-lastUpdated: 2024-03-04T01:55:50.579Z
+status: down
+code: 502
+responseTime: 117
+lastUpdated: 2024-03-04T03:01:32.056Z
 startTime: 2023-09-02T14:22:22.091Z
 generator: Upptime <https://github.com/upptime/upptime>
