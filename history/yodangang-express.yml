@@ -1,7 +1,7 @@
 url: https://yodangang.express/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 580
-lastUpdated: 2024-03-06T06:19:29.213Z
+status: down
+code: 502
+responseTime: 1580
+lastUpdated: 2024-03-06T08:41:03.533Z
 startTime: 2023-09-26T11:42:37.491Z
 generator: Upptime <https://github.com/upptime/upptime>
