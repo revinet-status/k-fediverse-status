@@ -1,7 +1,7 @@
 url: https://catswords.social/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 965
-lastUpdated: 2024-03-07T20:36:03.272Z
+status: up
+code: 200
+responseTime: 792
+lastUpdated: 2024-03-07T20:41:13.889Z
 startTime: 2023-09-23T20:51:58.007Z
 generator: Upptime <https://github.com/upptime/upptime>
