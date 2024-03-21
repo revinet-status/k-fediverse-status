@@ -1,7 +1,7 @@
 url: https://relay.pointless.chat/
-status: up
-code: 200
-responseTime: 127
-lastUpdated: 2024-03-21T12:26:31.126Z
+status: down
+code: 502
+responseTime: 243
+lastUpdated: 2024-03-21T13:12:57.105Z
 startTime: 2023-09-08T11:40:04.979Z
 generator: Upptime <https://github.com/upptime/upptime>
