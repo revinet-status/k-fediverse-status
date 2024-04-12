@@ -154,7 +154,7 @@
     "timeMonth": 718,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2024-04-12": 553,
+      "2024-04-12": 584,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
@@ -613,7 +613,7 @@
     "timeMonth": 338,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2024-04-12": 554,
+      "2024-04-12": 585,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
@@ -1012,19 +1012,19 @@
     "url": "https://muri.network/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/muri.network.ico",
     "slug": "muri-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "97.60%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "97.61%",
     "uptimeYear": "99.67%",
-    "time": 1700,
-    "timeDay": 3052,
-    "timeWeek": 2352,
-    "timeMonth": 1830,
-    "timeYear": 1700,
+    "time": 1699,
+    "timeDay": 2711,
+    "timeWeek": 2307,
+    "timeMonth": 1827,
+    "timeYear": 1699,
     "dailyMinutesDown": {
-      "2024-04-12": 17,
+      "2024-04-12": 20,
       "2024-04-10": 9,
       "2024-04-08": 20,
       "2024-04-06": 9,
@@ -1043,8 +1043,7 @@
       "2024-03-16": 108,
       "2024-03-15": 129,
       "2024-03-14": 108,
-      "2024-03-13": 294,
-      "2024-03-12": 3
+      "2024-03-13": 294
     }
   },
   {
@@ -1052,19 +1051,19 @@
     "url": "https://netsphere.one/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/netsphere.one.ico",
     "slug": "netsphere-one",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "97.65%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "97.66%",
     "uptimeYear": "99.67%",
     "time": 765,
-    "timeDay": 864,
-    "timeWeek": 780,
-    "timeMonth": 763,
+    "timeDay": 826,
+    "timeWeek": 775,
+    "timeMonth": 762,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2024-04-12": 17,
+      "2024-04-12": 20,
       "2024-04-10": 9,
       "2024-04-08": 20,
       "2024-04-06": 9,
@@ -1085,7 +1084,7 @@
       "2024-03-15": 129,
       "2024-03-14": 108,
       "2024-03-13": 294,
-      "2024-03-12": 8
+      "2024-03-12": 3
     }
   },
   {
@@ -1132,7 +1131,7 @@
     "timeMonth": 791,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2024-04-12": 555,
+      "2024-04-12": 587,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
@@ -1606,7 +1605,7 @@
     "timeMonth": 195,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2024-04-12": 556,
+      "2024-04-12": 588,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
@@ -2206,7 +2205,7 @@
     "timeMonth": 220,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-04-12": 556,
+      "2024-04-12": 589,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
@@ -2660,7 +2659,7 @@
     "timeMonth": 0,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2024-04-12": 557,
+      "2024-04-12": 589,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
