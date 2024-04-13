@@ -1,7 +1,7 @@
 url: https://t.chadole.com/nodeinfo/2.0
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-13T06:14:18.419Z
+status: up
+code: 200
+responseTime: 683
+lastUpdated: 2024-04-13T06:47:58.166Z
 startTime: 2023-09-07T10:58:53.746Z
 generator: Upptime <https://github.com/upptime/upptime>
