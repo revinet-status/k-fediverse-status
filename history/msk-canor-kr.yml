@@ -1,7 +1,7 @@
 url: https://msk.canor.kr/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 4032
-lastUpdated: 2024-04-14T01:24:39.794Z
+status: up
+code: 200
+responseTime: 677
+lastUpdated: 2024-04-14T03:04:41.974Z
 startTime: 2023-09-24T04:08:16.816Z
 generator: Upptime <https://github.com/upptime/upptime>
