@@ -23,9 +23,6 @@ sites:
   - name: Dimension
     url: https://dimension.host/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
-  - name: naru.cafe DON
-    url: https://don.naru.cafe/nodeinfo/2.0
-    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: HotoMoe
     url: https://hoto.moe/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
