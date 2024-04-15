@@ -173,9 +173,6 @@ sites:
   - name: yuri.garden
     url: https://yuri.garden/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
-  - name: aquarium.yuri.garden
-    url: https://aquarium.yuri.garden/nodeinfo/2.0
-    __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
   - name: yunochi.moe
     url: https://yunochi.moe/nodeinfo/2.0
     __dangerous__body_down_if_text_missing: '"protocols":["activitypub"]'
