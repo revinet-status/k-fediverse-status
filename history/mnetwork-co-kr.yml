@@ -1,7 +1,7 @@
 url: https://mastodon.mnetwork.co.kr/nodeinfo/2.0
-status: down
-code: 530
-responseTime: 650
-lastUpdated: 2024-04-21T14:14:51.952Z
+status: up
+code: 200
+responseTime: 385
+lastUpdated: 2024-04-21T14:15:59.706Z
 startTime: 2023-09-07T10:58:52.698Z
 generator: Upptime <https://github.com/upptime/upptime>
