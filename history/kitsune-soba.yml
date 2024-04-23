@@ -1,7 +1,7 @@
 url: https://kitsunesoba.com/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 2635
-lastUpdated: 2024-04-23T06:20:51.327Z
+status: up
+code: 200
+responseTime: 748
+lastUpdated: 2024-04-23T09:59:21.421Z
 startTime: 2023-09-21T05:04:06.612Z
 generator: Upptime <https://github.com/upptime/upptime>
