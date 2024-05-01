@@ -1,7 +1,7 @@
 url: https://ani.work/nodeinfo/2.0
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-01T08:44:10.183Z
+status: up
+code: 200
+responseTime: 105
+lastUpdated: 2024-05-01T09:23:52.193Z
 startTime: 2023-09-02T14:13:47.097Z
 generator: Upptime <https://github.com/upptime/upptime>
