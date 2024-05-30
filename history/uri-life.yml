@@ -1,7 +1,7 @@
 url: https://uri.life/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 380
-lastUpdated: 2024-05-30T10:57:02.587Z
+status: up
+code: 200
+responseTime: 218
+lastUpdated: 2024-05-30T11:11:54.617Z
 startTime: 2023-09-02T14:22:21.557Z
 generator: Upptime <https://github.com/upptime/upptime>
