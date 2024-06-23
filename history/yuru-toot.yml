@@ -1,7 +1,7 @@
 url: https://toot.funami.tech/nodeinfo/2.0
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-23T07:35:20.752Z
+status: up
+code: 200
+responseTime: 612
+lastUpdated: 2024-06-23T07:43:26.409Z
 startTime: 2023-09-02T14:13:58.801Z
 generator: Upptime <https://github.com/upptime/upptime>
