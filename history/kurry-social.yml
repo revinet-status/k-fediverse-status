@@ -1,7 +1,7 @@
 url: https://kurry.social/nodeinfo/2.0
-status: down
-code: 530
-responseTime: 501
-lastUpdated: 2024-06-27T21:56:24.643Z
+status: up
+code: 200
+responseTime: 362
+lastUpdated: 2024-06-27T23:12:49.457Z
 startTime: 2023-09-07T10:58:45.023Z
 generator: Upptime <https://github.com/upptime/upptime>
