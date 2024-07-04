@@ -1,7 +1,7 @@
 url: https://pointless.chat/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 266
-lastUpdated: 2024-07-04T12:29:36.137Z
+status: down
+code: 502
+responseTime: 278
+lastUpdated: 2024-07-04T16:11:45.916Z
 startTime: 2023-09-07T10:58:45.782Z
 generator: Upptime <https://github.com/upptime/upptime>
