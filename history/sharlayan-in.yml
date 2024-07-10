@@ -1,7 +1,7 @@
 url: https://sharlayan.in/nodeinfo/2.0
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-10T07:43:57.046Z
+status: up
+code: 200
+responseTime: 670
+lastUpdated: 2024-07-10T07:52:25.402Z
 startTime: 2023-09-08T17:43:50.416Z
 generator: Upptime <https://github.com/upptime/upptime>
