@@ -1,7 +1,7 @@
 url: https://yunochi.moe/nodeinfo/2.0
-status: down
-code: 530
-responseTime: 129
-lastUpdated: 2024-07-10T02:39:39.426Z
+status: up
+code: 200
+responseTime: 654
+lastUpdated: 2024-07-10T02:51:31.962Z
 startTime: 2023-12-29T21:59:05.700Z
 generator: Upptime <https://github.com/upptime/upptime>
