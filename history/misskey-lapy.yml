@@ -1,7 +1,7 @@
 url: https://k.lapy.link/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 660
-lastUpdated: 2024-07-30T12:30:00.246Z
+status: down
+code: 502
+responseTime: 677
+lastUpdated: 2024-07-30T15:07:02.078Z
 startTime: 2023-09-02T14:13:52.628Z
 generator: Upptime <https://github.com/upptime/upptime>
