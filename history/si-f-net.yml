@@ -1,7 +1,7 @@
 url: https://social.silicon.moe/nodeinfo/2.0
-status: down
-code: 530
-responseTime: 737
-lastUpdated: 2024-08-02T02:27:59.706Z
+status: up
+code: 200
+responseTime: 473
+lastUpdated: 2024-08-02T02:48:22.082Z
 startTime: 2023-09-02T14:13:58.249Z
 generator: Upptime <https://github.com/upptime/upptime>
