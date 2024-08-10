@@ -1,7 +1,7 @@
 url: https://iqhina.org/nodeinfo/2.0
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-09T23:55:50.471Z
+status: up
+code: 200
+responseTime: 531
+lastUpdated: 2024-08-10T00:57:08.378Z
 startTime: 2023-09-08T17:08:17.639Z
 generator: Upptime <https://github.com/upptime/upptime>
