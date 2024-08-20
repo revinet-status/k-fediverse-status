@@ -1,7 +1,7 @@
 url: https://nekoplanet.xyz/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 208
-lastUpdated: 2024-08-20T14:40:19.751Z
+status: up
+code: 200
+responseTime: 293
+lastUpdated: 2024-08-20T14:48:57.029Z
 startTime: 2023-09-28T05:52:11.745Z
 generator: Upptime <https://github.com/upptime/upptime>
