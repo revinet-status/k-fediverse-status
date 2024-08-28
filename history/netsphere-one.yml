@@ -1,7 +1,7 @@
 url: https://netsphere.one/nodeinfo/2.0
-status: down
-code: 404
-responseTime: 810
-lastUpdated: 2024-08-28T11:15:43.301Z
+status: up
+code: 200
+responseTime: 764
+lastUpdated: 2024-08-28T12:12:23.237Z
 startTime: 2023-09-07T10:58:51.481Z
 generator: Upptime <https://github.com/upptime/upptime>
