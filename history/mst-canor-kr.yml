@@ -1,7 +1,7 @@
 url: https://mst.canor.kr/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 1005
-lastUpdated: 2024-09-03T18:22:15.567Z
+status: down
+code: 521
+responseTime: 309
+lastUpdated: 2024-09-03T23:49:09.178Z
 startTime: 2023-09-24T04:08:15.594Z
 generator: Upptime <https://github.com/upptime/upptime>
