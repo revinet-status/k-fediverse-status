@@ -349,7 +349,7 @@
     "uptime": "89.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "25.75%",
+    "uptimeMonth": "25.93%",
     "uptimeYear": "88.23%",
     "time": 700,
     "timeDay": 594,
@@ -428,8 +428,7 @@
       "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-10-17": 10,
-      "2023-10-07": 26,
-      "2023-10-05": 6
+      "2023-10-07": 26
     }
   },
   {
@@ -770,18 +769,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yoyang.one.ico",
     "slug": "yoyang-one",
     "status": "down",
-    "uptime": "66.27%",
+    "uptime": "66.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "63.76%",
+    "uptimeYear": "63.75%",
     "time": 178,
     "timeDay": 105,
     "timeWeek": 110,
     "timeMonth": 97,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2024-10-03": 1409,
+      "2024-10-04": 47,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -1186,7 +1186,7 @@
     "status": "up",
     "uptime": "98.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "43.66%",
+    "uptimeWeek": "44.44%",
     "uptimeMonth": "83.27%",
     "uptimeYear": "98.15%",
     "time": 762,
@@ -1596,8 +1596,7 @@
       "2024-02-21": 3,
       "2024-01-26": 2,
       "2023-11-01": 4,
-      "2023-10-24": 3,
-      "2023-10-05": 32
+      "2023-10-24": 3
     }
   },
   {
@@ -1650,8 +1649,7 @@
       "2023-12-03": 1,
       "2023-11-14": 4,
       "2023-10-12": 4,
-      "2023-10-11": 5,
-      "2023-10-05": 3
+      "2023-10-11": 5
     }
   },
   {
@@ -1774,8 +1772,7 @@
       "2024-04-15": 309,
       "2024-02-29": 3,
       "2024-02-21": 12,
-      "2024-02-03": 40,
-      "2023-10-05": 2
+      "2024-02-03": 40
     }
   },
   {
@@ -1795,7 +1792,8 @@
     "timeMonth": 204,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-10-03": 1411,
+      "2024-10-04": 50,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -2158,8 +2156,7 @@
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
-      "2023-10-06": 1440,
-      "2023-10-05": 1440
+      "2023-10-06": 1440
     }
   },
   {
@@ -2322,12 +2319,12 @@
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 811,
     "timeDay": 694,
     "timeWeek": 755,
-    "timeMonth": 785,
+    "timeMonth": 789,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2024-09-03": 9,
@@ -2440,18 +2437,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yodangang.express.ico",
     "slug": "yodangang-express",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "94.82%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.39%",
+    "uptimeDay": "89.35%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.38%",
     "time": 788,
     "timeDay": 824,
     "timeWeek": 985,
     "timeMonth": 883,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2024-10-03": 75,
+      "2024-10-04": 51,
+      "2024-10-03": 102,
       "2024-09-30": 6,
       "2024-07-05": 9,
       "2024-06-22": 286,
@@ -2510,18 +2508,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldc.one.ico",
     "slug": "worldcone",
     "status": "down",
-    "uptime": "75.28%",
+    "uptime": "75.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.95%",
+    "uptimeYear": "74.94%",
     "time": 651,
     "timeDay": 844,
     "timeWeek": 877,
     "timeMonth": 797,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2024-10-03": 1412,
+      "2024-10-04": 51,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -2655,18 +2654,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.peacht.art.ico",
     "slug": "i-peacht-art",
     "status": "down",
-    "uptime": "65.26%",
+    "uptime": "65.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "64.82%",
+    "uptimeYear": "64.81%",
     "time": 660,
     "timeDay": 0,
     "timeWeek": 394,
     "timeMonth": 609,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2024-10-03": 1413,
+      "2024-10-04": 51,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -2853,7 +2853,8 @@
     "timeMonth": 231,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2024-10-03": 1413,
+      "2024-10-04": 52,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -3216,8 +3217,7 @@
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
-      "2023-10-06": 1440,
-      "2023-10-05": 1440
+      "2023-10-06": 1440
     }
   },
   {
@@ -3226,18 +3226,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mi.rerac.dev.ico",
     "slug": "mi-rerac-dev",
     "status": "up",
-    "uptime": "98.93%",
+    "uptime": "98.91%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "61.01%",
-    "uptimeMonth": "91.03%",
-    "uptimeYear": "98.91%",
+    "uptimeWeek": "60.23%",
+    "uptimeMonth": "90.85%",
+    "uptimeYear": "98.90%",
     "time": 639,
     "timeDay": 603,
     "timeWeek": 703,
     "timeMonth": 630,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2024-10-03": 1413,
+      "2024-10-04": 52,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1077,
       "2024-09-01": 110,
@@ -3263,8 +3264,7 @@
       "2023-10-17": 2,
       "2023-10-13": 5,
       "2023-10-11": 5,
-      "2023-10-10": 5,
-      "2023-10-05": 4
+      "2023-10-10": 5
     }
   },
   {
@@ -3327,11 +3327,11 @@
     "url": "https://sekai.social/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/sekai.social.ico",
     "slug": "sekai-social",
-    "status": "up",
+    "status": "down",
     "uptime": "98.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "98.08%",
     "time": 768,
     "timeDay": 773,
@@ -3339,6 +3339,7 @@
     "timeMonth": 744,
     "timeYear": 768,
     "dailyMinutesDown": {
+      "2024-10-04": 7,
       "2024-09-25": 8,
       "2024-09-21": 51,
       "2024-09-09": 8,
@@ -3429,8 +3430,7 @@
       "2023-12-12": 5,
       "2023-12-11": 4,
       "2023-12-10": 5,
-      "2023-12-09": 8,
-      "2023-12-07": 5
+      "2023-12-09": 8
     }
   },
   {
@@ -3488,18 +3488,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yunochi.moe.ico",
     "slug": "yunochi-moe",
     "status": "down",
-    "uptime": "90.93%",
+    "uptime": "90.91%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "37.94%",
-    "uptimeMonth": "85.72%",
-    "uptimeYear": "90.93%",
+    "uptimeWeek": "37.16%",
+    "uptimeMonth": "85.54%",
+    "uptimeYear": "90.91%",
     "time": 647,
     "timeDay": 480,
     "timeWeek": 592,
     "timeMonth": 603,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2024-10-03": 1413,
+      "2024-10-04": 52,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -3708,18 +3709,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.musubi.moe.ico",
     "slug": "relay-musubi-moe",
     "status": "down",
-    "uptime": "66.62%",
+    "uptime": "66.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "64.20%",
+    "uptimeYear": "64.19%",
     "time": 486,
     "timeDay": 537,
     "timeWeek": 566,
     "timeMonth": 575,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2024-10-03": 1414,
+      "2024-10-04": 53,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
