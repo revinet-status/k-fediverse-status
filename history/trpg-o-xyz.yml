@@ -1,7 +1,7 @@
 url: https://trpg-o.xyz/nodeinfo/2.0
-status: down
-code: 500
-responseTime: 555
-lastUpdated: 2024-10-08T13:35:12.537Z
+status: up
+code: 200
+responseTime: 14190
+lastUpdated: 2024-10-08T14:10:34.969Z
 startTime: 2023-09-07T10:58:57.930Z
 generator: Upptime <https://github.com/upptime/upptime>
