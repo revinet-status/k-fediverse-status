@@ -1,7 +1,7 @@
 url: https://qdon.space/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 609
-lastUpdated: 2024-10-30T01:20:01.589Z
+status: down
+code: 502
+responseTime: 538
+lastUpdated: 2024-10-30T08:39:47.817Z
 startTime: 2023-09-02T14:22:18.400Z
 generator: Upptime <https://github.com/upptime/upptime>
