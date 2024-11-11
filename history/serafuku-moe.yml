@@ -1,7 +1,7 @@
 url: https://serafuku.moe/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 533
-lastUpdated: 2024-11-11T01:19:52.390Z
+status: down
+code: 530
+responseTime: 52
+lastUpdated: 2024-11-11T04:55:27.553Z
 startTime: 2023-09-24T04:08:18.123Z
 generator: Upptime <https://github.com/upptime/upptime>
