@@ -1,7 +1,7 @@
 url: https://planet.moe/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 1006
-lastUpdated: 2024-11-12T13:34:21.291Z
+status: up
+code: 200
+responseTime: 1086
+lastUpdated: 2024-11-12T13:51:53.309Z
 startTime: 2023-09-02T14:22:08.117Z
 generator: Upptime <https://github.com/upptime/upptime>
